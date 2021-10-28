@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.NavDiv img{
+    width: 30px;
+}
+
+.header .NavDiv{
+    display: flex;
+    background-color: darkorange;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+.header ul {
+    list-style-type: none;
+    margin-right: 50px;
+    margin: 0;
+}
+.header ul li{
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 18px;
+}
+
+.itemone{
+    flex: 70%;
+}
+
+/* body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(20, 20, 20);
+}
+ul .list-div{
+    background-color: darkolivegreen;
+    background-color: rgb(20, 20, 20);
+    display: flex;
+    list-style: none;
+    margin-right: 10px;
+    font-size: 1.2rem;
+}
+.list-div li{
+    margin-right: 20px;
+} */

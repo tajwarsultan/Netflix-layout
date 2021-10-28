@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.header ul li{
+    margin-right: 18px;
+    font-size: 20px;
+}
+/* body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(20, 20, 20);
+}
+ul .list-div{
+    background-color: darkolivegreen;
+    background-color: rgb(20, 20, 20);
+    display: flex;
+    list-style: none;
+    margin-right: 10px;
+    font-size: 1.2rem;
+}
+.list-div li{
+    margin-right: 20px;
+} */
